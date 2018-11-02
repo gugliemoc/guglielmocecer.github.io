@@ -24,3 +24,13 @@ This is some text in **Bold**, *italics* and here is a:
 * Two
 * Three
 * List
+
+To run the website 
+```bash
+hugo server -D 
+```
+
+To compile the website
+```bash
+hugo 
+```

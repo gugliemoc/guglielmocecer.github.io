@@ -1,2 +1,4 @@
-# guglielmoc.github.io
-My blog
+# Guglielmo.xyz
+
+
+This repository contains the source code of my [blog](https://guglielmo.xyz)
